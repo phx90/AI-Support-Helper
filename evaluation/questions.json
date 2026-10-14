@@ -1,0 +1,6 @@
+[
+  {"question":"What should I check when DNS resolution fails?","expected_source":"network_troubleshooting.md","expected_keywords":["DNS","resolver"]},
+  {"question":"How can an ERP account be unlocked?","expected_source":"erp_access.md","expected_keywords":["account","identity"]},
+  {"question":"What is the password reset procedure?","expected_source":"password_reset.md","expected_keywords":["temporary","MFA"]},
+  {"question":"How do I diagnose a container that keeps restarting?","expected_source":"docker_troubleshooting.md","expected_keywords":["logs","health"]}
+]

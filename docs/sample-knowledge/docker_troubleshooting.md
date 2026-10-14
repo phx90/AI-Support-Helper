@@ -1,0 +1,3 @@
+# Docker Troubleshooting Guide
+
+For a container that keeps restarting, inspect `docker compose ps` and the latest service logs first. Confirm the exit code, health check result, required environment variables, mounted file permissions, and dependency health. Rebuild only after identifying whether the failure is image, configuration, or runtime related. Preserve relevant logs before recreating volumes.
